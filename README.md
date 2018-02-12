@@ -1,6 +1,6 @@
 # Zero to App with React Native
 
-A basic react native app bootstrapped using [`react-native-firebase`](https://github.com/invertase/react-native-firebase).
+A basic react native app bootstrapped using [`react-native-firebase-starter`](https://github.com/invertase/react-native-firebase-starter).
 
 ---
 
@@ -10,8 +10,8 @@ If you're only developing for one platform you can ignore the steps below that a
 
 ### 1) Clone & Install Dependencies
 
-- 1.1) `git clone https://github.com/invertase/react-native-firebase-starter.git`
-- 1.2) `cd react-native-firebase-starter` - cd into your newly created project directory.
+- 1.1) `git clone https://github.com/jrbaudin/odm-zero-to-app-with-rn.git`
+- 1.2) `cd odm-zero-to-app-with-rn` - cd into your newly created project directory.
 - 1.3) Install NPM packages with your package manager of choice - i.e run `yarn` or `npm install`
 - 1.4) **[iOS]** `cd ios` and run `pod install` - if you don't have CocoaPods you can follow [these instructions](https://guides.cocoapods.org/using/getting-started.html#getting-started) to install it.
 - 1.5) **[Android]** No additional steps for android here.
