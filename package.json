@@ -15,7 +15,8 @@
     "ios": "react-native run-ios",
     "rename": "node ./bin/rename.js",
     "start": "react-native start",
-    "test": "jest"
+    "test": "jest",
+    "build-android": "cd android && ./gradlew clean && ./gradlew assembleRelease"
   },
   "jest": {
     "preset": "react-native"
